@@ -8,4 +8,4 @@ const genDiff = () => {
   program.parse();
 };
 
-genDiff();
+export default genDiff;
