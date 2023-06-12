@@ -14,3 +14,5 @@ Difference calculator is a program with command-line interface (CLI) that genera
 ## Demonstration
 
 ### Plain type of input data, json files:
+
+[![asciicast](https://asciinema.org/a/HRCcyrFcF2Xh896DmApBRmcKU.svg)](https://asciinema.org/a/HRCcyrFcF2Xh896DmApBRmcKU)
